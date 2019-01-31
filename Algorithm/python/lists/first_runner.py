@@ -4,3 +4,4 @@ if __name__ == '__main__':
     m=list(set(arr))
     m.sort(reverse=True)
     print(m[1])
+    
