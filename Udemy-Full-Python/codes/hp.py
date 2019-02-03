@@ -1,4 +1,3 @@
-
 class Enemy:
 
     def __init__(self,atkl,atkh):
